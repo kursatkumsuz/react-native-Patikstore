@@ -21,7 +21,7 @@ const App = () => {
     return (
 
         <SafeAreaView>
-            <Text style={styles.name}>PATIKSTORE</Text>
+            <Text style={styles.name}>PATISTORE</Text>
 
             <FlatList style={styles.flat_container}
                 ListHeaderComponent={() =>
